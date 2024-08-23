@@ -1,0 +1,28 @@
+.ima{
+    width: 300px;
+    object-fit: contain;
+    border-color: black;
+    object-position: center;
+    cursor: pointer;
+    border-radius: 3px;
+    border-color: red;
+    margin-bottom: 100px;
+}
+.image{
+    width: 200px;
+    height: 100px;
+    object-fit: contain;
+    border-color: black;
+    border-radius: 500px;
+    border-width: 5px;
+    margin-bottom: 100px;
+    ali
+    
+}
+.searchbar{
+   height: 20px;
+   margin-right: 20px;
+}
+.check{
+    cursor: pointer;
+}
