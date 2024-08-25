@@ -1,0 +1,137 @@
+.searchbar{
+   height: 20px;
+   margin-right: 20px;
+   display: block;
+   margin-bottom: 10px; 
+}
+.check{
+    height: 20px;
+    display: block;
+    margin-bottom: 10px;
+}
+.ques{
+    height: 20px;
+    display: block;
+    margin-bottom: 0px;
+}
+.sub{
+    background-color: blue;
+    color:white;
+    display: block;
+    border: none;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.feedback{
+    width: 190px;
+    font-size: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.button1,.button2{
+    background-color: white; 
+    border-width: 1px;
+    height: 20px;  
+    cursor: pointer;  
+}
+.google{
+    width: 200px;
+    display: block;
+    align-self: center;
+    margin-left: 320px;
+}
+.search{
+    width: 350px;
+    height: 34px;
+    border-radius: 60px;
+    margin-left:245px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-width: none;
+    box-shadow: 3px 3px 50px black;
+    margin-bottom: 40px;
+    display: block;
+}
+.name,.name2{
+    width: 89px;
+    height: 24px;
+    margin-bottom: 10px;
+}
+.mail{
+    display: block;
+    width: 190px;
+    height: 24px;
+    margin-bottom: 10px;
+}
+.sign{
+    background-color: blue;
+    padding-right: 75px;
+    padding-top: 10px;
+    padding-left: 75px;
+    padding-bottom: 10px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px
+}
+.sign:hover{
+    cursor: pointer;
+}
+.uber{
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+.pickup{
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: block;
+}
+.destination{
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: block;
+}
+.req{
+    background-color: black;
+    color: white;
+    border: none;
+    margin-top: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 15px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+.Schedules{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: none;
+    cursor: pointer;
+}
+.question{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 9px;
+}
+.yes,.no{
+    display: inline-block;
+    vertical-align: center;
+}
+.checkbox,.checkbox1{
+    cursor: pointer;
+}
