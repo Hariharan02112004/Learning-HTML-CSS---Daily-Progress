@@ -1,0 +1,98 @@
+.div-example{
+    border-color: black;
+    border: 1px;
+    width: 250px;
+    border-style: solid;
+    height: 80px;
+
+}
+.para{
+    font-size: 15px;
+    margin-left: 3px;
+}
+.yes,.no{
+    font-size: 12px;
+    margin-left: 3px;
+}
+.div-2{
+    background-color: black;
+    width: 350px;
+    height: 100px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    
+    .install{
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 0px;
+        font-family: Arial;
+        padding-top: 15px;
+        padding-left: 15px;
+    }
+    .suggestion{
+        color: rgb(96,96,96);
+        font-size: 15px;
+        margin-top: 9px;
+        font-family: Arial;
+        margin-right: 10px;
+        padding-left: 15px;
+    }
+}
+.div-3{
+    width: 300px;
+    display: inline-block;
+    margin-right: 10px;
+    .image1{
+        width: 300px;
+        height: 200px;
+        
+    }
+    .name1{
+        font-weight: bold;
+        margin-top: 5px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    .but1{
+        color: white;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 10px;
+        padding-left: 10px;
+        background-color: blue;
+        border: none;
+        margin-top: 0px;
+        text-align: center;
+        margin-left: 104px ;
+    }
+}
+
+.div-4{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    .image2{
+        width: 300px;
+    
+    }
+    .name2{
+        font-weight: bold;
+        margin-top: 5px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    .but2{
+        color: white;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 10px;
+        padding-left: 10px;
+        background-color: blue;
+        border: none;
+        margin-top: 0px;
+        text-align: center;
+        margin-left: 108px ;
+    }
+    
+}
