@@ -1,0 +1,68 @@
+.searchbar{
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-top: 20px;
+    display: block;
+    width: 300px;
+    height: 20px;
+}
+.div1,.div3,.div4{
+    width: 300px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.div2{
+    width: 300px;
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: top;
+}
+.thumbnail1,.thumbnail2,.thumbnail3,.thumbnail4{
+    width: 300px;
+}
+.pro1,.pro2,.pro3,.pro4{
+    width: 40px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;    
+}
+.profile1,.profile2,.profile3,.profile4{
+    width: 40px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+.detailsvideo1,.detailsvideo2,.detailsvideo3,.detailsvideo4{
+    display: inline-block;
+}
+.videoT1,.videoT4{
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 240px;
+}
+.videoT2,.videoT3{
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 220px;
+    vertical-align: top;
+}
+.page1,.page2,.page3,.page4{
+    color: rgb(96,96,96);
+    font-family: Arial;
+    font-size: 13px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.details1,.details2,.details3,.details4{
+    font-family: Arial;
+    font-size: 13px;
+    color: rgb(96,96,96);
+    margin-top: 0px;    
+    width: 240px;
+}
+
